@@ -1,0 +1,3 @@
+@LandingCtrl = ['$scope', ($scope) ->
+  
+]
